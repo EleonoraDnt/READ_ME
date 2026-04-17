@@ -1,9 +1,10 @@
-## About me
-Data Science student | Biotechnology background | Bootcamp in Data Intelligence
+## ABOUT ME
 
-Focus: Data Analysis | Data Visualization | Python | Machine Learning
+# Data Science student | Biotechnology background | Bootcamp in Data Intelligence
 
-Skills: Data Cleaning | EDA | Pattern Recognition | Insight Extraction
+# Focus: Data Analysis | Data Visualization | Python | Machine Learning
 
-Tools: Python (Pandas, NumPy, Matplotlib, Seaborn) | Jupyter Notebook | Scikit-learn
+# Skills: Data Cleaning | EDA | Pattern Recognition | Insight Extraction
+
+# Tools: Python (Pandas, NumPy, Matplotlib, Seaborn) | Jupyter Notebook | Scikit-learn
 
